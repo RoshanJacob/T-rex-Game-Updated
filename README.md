@@ -1,1 +1,3 @@
-# T-rex-Game-Updated
+# p5.play-boilerplate
+
+Boiler plate for p5.play
